@@ -1,0 +1,14 @@
+.modal-body p {
+    white-space: nowrap; /* Prevent wrapping */
+  }
+  .modal-body strong {
+    display: inline-block;
+    width: 150px; /* Adjust this value to align the colons vertically */
+    text-align: right;
+    margin-right: 10px;
+  }
+  .modal-body span {
+    display: inline-block;
+    padding-left: 10px; /* Adjust this value to create space between the colon and the value */
+  }
+  
